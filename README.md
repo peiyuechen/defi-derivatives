@@ -199,6 +199,8 @@ Without Oracles
 - [Lemma](https://www.lemma.finance/) - Basis trading protocol
   - [Trade](https://www.lemma.finance/earn)
   - [Docs](https://docs.lemma.finance/)
+- [Set labs](https://www.tokensets.com/) - 2b portfolio management tool for managing index fund 
+
 
 ##### Option Vaults
 - [Ribbon](https://ribbon.finance/) - Option vault structured product protocol
